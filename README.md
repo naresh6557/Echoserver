@@ -25,7 +25,7 @@ Testing the server and client
 import socket
 HOST, PORT = '127.0.0.1', 65432
 with socket.create_connection((HOST, PORT)) as s:
-    s.sendall(b'Suriya Pravin M, 2122223230223')
+    s.sendall(b'Naresh kumar R, 212224040213')
     print(f'Received: {s.recv(1024)!r}')
 ```
 
