@@ -1,4 +1,4 @@
-# Echoserver
+# Ex1-Echoserver
 Echo server and client using python socket
 
 # AIM:
@@ -43,9 +43,11 @@ with socket.create_server((host,port))as s:
 
 ## OUTPUT:
 ## CLIENT:
-![image](https://github.com/user-attachments/assets/e4ccb114-529f-4ba3-95c3-c31737b53ba1)
+![image](https://github.com/user-attachments/assets/453d7a74-9544-4500-bb76-1d06482c0713)
+
 ## SERVER:
-![image](https://github.com/user-attachments/assets/00d44627-571f-4f7d-b9bc-b339a1f43463)
+![image](https://github.com/user-attachments/assets/31ba61ea-1030-4a2d-8361-dce249269a64)
+
 
 
 ## RESULT:
